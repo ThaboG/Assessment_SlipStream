@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Assessment_SlipStream.BAL</AssemblyName>
+    <RootNamespace>Assessment_SlipStream.BAL</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Assessment_SlipStream.DAL\Assessment_SlipStream.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
